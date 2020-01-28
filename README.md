@@ -1,2 +1,2 @@
-# gophercises
-Exercises from Gophercises course
+# Gophercises
+Exercises from the [Gophercises](https://gophercises.com/) course.
