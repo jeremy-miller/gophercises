@@ -3,7 +3,9 @@ module github.com/jeremy-miller/gophercises
 go 1.13
 
 require (
+	github.com/alecthomas/chroma v0.7.1 // indirect
 	github.com/boltdb/bolt v1.3.1
+	github.com/dlclark/regexp2 v1.2.0 // indirect
 	github.com/lib/pq v1.3.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pelletier/go-toml v1.6.0 // indirect
